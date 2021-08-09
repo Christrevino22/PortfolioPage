@@ -1,18 +1,17 @@
-// import { useEffect } from "react";
-import { Container } from '@material-ui/core'
+import React from "react";
 import "./App.css";
-import Nav from "./components/Nav";
+import Intro from "./components/Intro/Intro";
 
 function App() {
   // useEffect(() => {
   //   fetch()
   //   return () => {
-      
+
   //   }
   // }, [])
   return (
     <div className="App">
-      <Nav />
+      <Intro />
     </div>
   );
 }
