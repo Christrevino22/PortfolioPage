@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-README
+
 
 # testing
 /coverage
@@ -22,3 +22,4 @@ README
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+README.md
